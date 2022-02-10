@@ -1,0 +1,23 @@
+el concepto siguentes explicaciones 
+
+* Variables: es un espacio que se reserva en la memoria tiene nombre y esta a su vez tiene datos reservados. 
+ejemplo: se inicio con  var  nombre del grupo; lista de alumnos quinto primaria.
+
+* String: La clase String es utilizada para manejar cadenas de caractere y escribir entre comillas. 
+
+* funciones: ejepmplo la familia quiere comprar un carro, pero el precio de los combustibles es muy alto entonces mejor comprar una carro
+economico. por lo tanto la economia del carro esta FUNCION del consumo de combustibles que tenga este carro. Argumento el carro gaste menos
+combustibles. return es comprar el carro economico. 
+
+* Declaraciones `if`: si (condicion) ejecutamos el codigo. Si no se cumple la condicion ejecutamos el codigo. 
+ejemplo Si (tienes 18 años) puedes pedir una cerveza. En caso de que no los tengas. No puedes pedir una cerveza. En la estructura IF 
+siempre tenemos 2 caminos: el camino en caso de cumplir la condicion. 
+                           el camino en caso de no cumplir la condicion. 
+
+
+
+* Valores booleanos (`true`, `false`): puede tener dos el valor de falso o verdadero. Tienen que escritas en minusculas para uqe sea ese 
+valor, ya que son palabras reservados, esto quiere decir que son exclusivamente para referir a un tipo booleanos. 
+
+
+
